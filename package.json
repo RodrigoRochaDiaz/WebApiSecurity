@@ -1,0 +1,15 @@
+{
+  "name": "todoapi",
+  "version": "1.0.0",
+  "description": "Servicio Security ValRisk 2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
